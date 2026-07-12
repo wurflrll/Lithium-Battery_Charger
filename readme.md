@@ -1,4 +1,4 @@
-$$ (Cascaded) Lithium-Ion Battery Charger 
+# (Cascaded) Lithium-Ion Battery Charger 
 
 
 The goals is a modular design for charging a lithium ion battery.  The board has two parts, the actual charging circuitry and the communication peripherals.
